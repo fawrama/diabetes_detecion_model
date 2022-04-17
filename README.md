@@ -1,0 +1,1 @@
+# diabetes_detecion_model
