@@ -6,5 +6,4 @@ this model is developed using the Sklearn Artificial nueral network to classify 
 * install jupyter notebook / google colab
 * install pandas
 * install sklearn
-* install matplotlib
 * run the .ipynb file 
